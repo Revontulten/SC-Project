@@ -10,17 +10,6 @@
   position: relative;
   margin: 0 auto;
 }
-/*.search {
-  display: inline;
-  padding: 15px 40px;
-  margin: 15px 40px;
-  text-align: left;
-  background-color: palevioletred;
-  position: relative;
-  top: 37px;
-  left: 140px;
-  border-radius: 30px;
-}*/
 
 h1 {
   position: relative;
@@ -35,24 +24,6 @@ h1 {
   padding-left: 20px;
 }
 
-/*.col-9 {
-  display: block;
-  padding: 15px 40px;
-  margin: 15px 40px;
-  text-align: left;
-
-  position: relative;
-  top: -320px;
-  left: 160px;
-  border-radius: 30px;
-}
-.col-3 {
-  position: relative;
-  width: 35%;
-  top: -387px;
-  left: 500px;
-  color: aqua;
-}*/
 table {
   position: absolute;
   margin-top: 50px;
@@ -143,12 +114,13 @@ h2,
 .dayTemp {
   font-weight: bold;
 }
-/*.time {
-  font-weight: 400;
-}*/
 
 .search-form {
   display: block;
   margin-left: 350px;
   margin-top: 30px;
+}
+
+.link {
+  margin-left: 270px;
 }
