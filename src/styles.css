@@ -1,0 +1,154 @@
+.base {
+  background: linear-gradient(
+    109.6deg,
+    rgb(204, 228, 247) 11.2%,
+    rgb(237, 246, 250) 100.2%
+  );
+  width: 1000px;
+  height: 700px;
+  display: block;
+  position: relative;
+  margin: 0 auto;
+}
+/*.search {
+  display: inline;
+  padding: 15px 40px;
+  margin: 15px 40px;
+  text-align: left;
+  background-color: palevioletred;
+  position: relative;
+  top: 37px;
+  left: 140px;
+  border-radius: 30px;
+}*/
+
+h1 {
+  position: relative;
+  margin-top: 0px;
+  padding-top: 17px;
+  padding-left: 170px;
+  text-decoration: underline;
+}
+.dayToday {
+  position: absolute;
+  padding-top: 60px;
+  padding-left: 20px;
+}
+
+/*.col-9 {
+  display: block;
+  padding: 15px 40px;
+  margin: 15px 40px;
+  text-align: left;
+
+  position: relative;
+  top: -320px;
+  left: 160px;
+  border-radius: 30px;
+}
+.col-3 {
+  position: relative;
+  width: 35%;
+  top: -387px;
+  left: 500px;
+  color: aqua;
+}*/
+table {
+  position: absolute;
+  margin-top: 50px;
+}
+.emojiToday {
+  font-size: 80px;
+  margin: 20px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.weatherToday {
+  font-weight: bold;
+  font-size: 30px;
+}
+.dateToday {
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 25px;
+  font-style: italic;
+}
+
+h1,
+h2,
+h3,
+h4/ h5,
+h6 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.forecast {
+  background-color: rgb(93, 148, 167);
+  margin: 60px 20px 20px 20px;
+  text-decoration: underline;
+  text-align: center;
+  position: relative;
+}
+hr {
+  color: black;
+}
+.today {
+  margin: 45px 40px;
+  margin-bottom: 0px;
+}
+td {
+  width: 420px;
+}
+.characteristicsToday {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  text-align: center;
+}
+.weatherNow {
+  position: absolute;
+  top: 50px;
+  right: 600px;
+}
+.dateToday {
+  margin: 0px;
+}
+
+.row {
+  position: absolute;
+  top: 380px;
+  margin: 0px 30px;
+}
+h6 {
+  background-color: rgb(174, 218, 239);
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 0;
+  padding: 10px;
+}
+.emoji {
+  font-size: 45px;
+  text-align: center;
+  margin: 10px;
+  margin-top: 0;
+}
+.characteristics {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+.indicator,
+h2,
+.dayTemp {
+  font-weight: bold;
+}
+/*.time {
+  font-weight: 400;
+}*/
+
+.search-form {
+  display: block;
+  margin-left: 350px;
+  margin-top: 30px;
+}
